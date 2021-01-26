@@ -6,4 +6,4 @@ Hi there 👋
 - 💬 Ask me about: Anything
 - 📫 How to reach me: Ask for it
 - 😄 Pronouns: Rahul
-- ⚡ Fun fact: In development field there is nothing fun fact 😂
+- ⚡ Fun fact: In development field there is no fun fact 😂
