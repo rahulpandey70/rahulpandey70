@@ -1,5 +1,3 @@
-Hi there 👋
-
 - 🔭 I’m currently working on: No where
 - 🌱 I’m currently learning: Software developing And Devops developing
 - 👯 I’m looking to collaborate on: Open source
