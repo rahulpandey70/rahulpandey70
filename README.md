@@ -9,6 +9,5 @@
 # My Stats
 <hr>
 
-![Rahul Pandey's github stats](https://github-readme-stats.vercel.app/api?username=rahulpandey70&show_icons=true&theme=light)
+![RahulPandey's github stats](https://github-readme-stats.vercel.app/api?username=RahulPandey70&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpandey70)
-
