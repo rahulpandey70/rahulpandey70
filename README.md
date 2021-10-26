@@ -1,5 +1,5 @@
 # My Stats
-<h3>Hi there! 👋🤓 I'm Rahul Pandey</h3>
+<h3>Hi there! 👋🤓 I'm Rahul Pandey.</h3>
 <hr>
 
 ![RahulPandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpandey70&show_icons=true)
