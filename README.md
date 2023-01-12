@@ -14,7 +14,7 @@
   <a href="http://www.instagram.com/_imrahulpandey/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a> 
-  <a href="https://www.linkedin.com/in/rahul-pandey-a9a91a112/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
   <a href="https://www.twitter.com/rahulpandey5342" target="_blank" rel="noreferrer">
