@@ -1,9 +1,7 @@
 
 ## Hey I'm [Rahul!](https://github.com/rahulpandey70) 
 
-<img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulpandey70&show_icons=true&theme=radical" />
-
-<img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahulpandey70&layout=compact)](https://github.com/rahulpandey70/github-readme-stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulpandey70&show_icons=true&theme=radical" />
 
 ### Socials
 
