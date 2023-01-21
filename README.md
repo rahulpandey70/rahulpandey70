@@ -1,5 +1,23 @@
+# 👋 Hey I'm Rahul Pandey
 
-## Hey I'm 👋 [Rahul!](https://github.com/rahulpandey70) 
+<span align="left">
+  <a href="https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/">
+    <img src="https://img.shields.io/badge/-Rahul Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/" />
+  </a>
+  <a href="mailto:rahulpandey9103@gmail.com">
+    <img src="https://img.shields.io/badge/-rahulpandey9103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulpandey9103@gmail.com" />
+  </a>
+  <a href="https://github.com/rahulpandey70/?tab=follow">
+    <img src="https://img.shields.io/github/followers/rahulpandey70?label=Follow&style=social" />
+  </a>
+</span>
+
+<br />
+
+- ⚡ Skills: **ReactJS, JavaScript, NodeJS, ExpressJs, MongoDB, Python, Html, Css, Docker, Kubernetes, AWS**
+- 👋🏻 Feel free to get in touch!
+
+<br />
 
 <div align="left">
   <p>
@@ -11,16 +29,3 @@
   </p>
 </div>
 
-### Socials
-
-<div align="left">
-  <a href="https://www.github.com/rahulpandey70" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a>&emsp;
-  <a href="http://www.instagram.com/_imrahulpandey/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>&emsp;
-  <a href="https://www.twitter.com/rahulpandey5342" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</div>
