@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_imrahulpandey/">
     <img src="https://img.shields.io/badge/_imrahulpandey-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.twitter.com/rahulpandey5342" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/rahulpandey5342">
     <img src="https://img.shields.io/badge/rahulpandey5342-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/rahulpandey70/?tab=follow">
