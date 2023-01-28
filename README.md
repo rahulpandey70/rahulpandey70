@@ -20,7 +20,7 @@
 
 <br />
 
-- ⚡ Skills: **ReactJS, JavaScript, NodeJS, ExpressJs, MongoDB, Python, Html, Css, Docker, Kubernetes, AWS**
+- ⚡ Skills: **JavaScript, Python, Html, Css, ReactJS, Redux-toolkit, NodeJS, ExpressJs, MongoDB, Docker, Kubernetes, AWS**
 - 👋🏻 Feel free to get in touch!
 
 <br />
