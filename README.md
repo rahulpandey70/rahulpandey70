@@ -1,5 +1,8 @@
 # 👋 Hey I'm Rahul Pandey
 
+- ⚡ Skills: **JavaScript, Python, Html, Css, ReactJS, Redux-toolkit, NodeJS, ExpressJs, MongoDB, Docker, Kubernetes, AWS**
+- 👋🏻 Feel free to get in touch!
+
 <span align="left">
   <a href="https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/">
     <img src="https://img.shields.io/badge/-Rahul Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/" />
@@ -13,27 +16,9 @@
   <a href="https://www.twitter.com/rahulpandey5342">
     <img src="https://img.shields.io/badge/rahulpandey5342-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/rahulpandey70/?tab=follow">
-    <img src="https://img.shields.io/github/followers/rahulpandey70?label=Follow&style=social" />
-  </a>
 </span>
 
 <br />
-
-- ⚡ Skills: **JavaScript, Python, Html, Css, ReactJS, Redux-toolkit, NodeJS, ExpressJs, MongoDB, Docker, Kubernetes, AWS**
-- 👋🏻 Feel free to get in touch!
-
-<br />
-
-<div align="left">
-  <p>
-    <a href="https://github.com/rahulpandey70">
-    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulpandey70&show_icons=true&theme=tokyonight&hide_border=true" /></a>&emsp;&emsp;
-    <a href="https://github.com/rahulpandey70">
-    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahulpandey70&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Rahul Pandey :: Top Langs" />
-    </a>
-  </p>
-</div>
 
 ### Thanks for visiting :heart:
 
