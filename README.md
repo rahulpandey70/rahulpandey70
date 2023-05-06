@@ -17,11 +17,3 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </span>
-
-<br />
-
-### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/rahulpandey70/count.svg">  
-</p>
