@@ -1,7 +1,4 @@
-# 👋 Hey I'm Rahul Pandey
-
-- ⚡ Skills: **JavaScript, Python, Html, Css, Git, Github, ReactJS, Redux-toolkit, NodeJS, ExpressJs, MongoDB, Docker, Kubernetes, AWS, Linux**
-- 👋🏻 Feel free to get in touch!
+👋🏻 Connect with me.
 
 <span align="left">
   <a href="https://www.linkedin.com/in/rahul-kr-pandey-a9a91a112/">
